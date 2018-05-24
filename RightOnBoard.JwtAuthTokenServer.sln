@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RightOnBoard.JwtAuthTokenServer.API", "RightOnBoard.JwtAuthTokenServer.API\RightOnBoard.JwtAuthTokenServer.API.csproj", "{0A868857-BAF2-438B-8DB3-3107738B48A3}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{BBE4B2EA-6418-473B-8C96-45D17DC1C5FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightOnBoard.JwtAuthTokenServer.Service", "RightOnBoard.JwtAuthTokenServer.Service\RightOnBoard.JwtAuthTokenServer.Service.csproj", "{F8FEEEB8-6090-426C-934D-E863320753E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A868857-BAF2-438B-8DB3-3107738B48A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A868857-BAF2-438B-8DB3-3107738B48A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A868857-BAF2-438B-8DB3-3107738B48A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A868857-BAF2-438B-8DB3-3107738B48A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE4B2EA-6418-473B-8C96-45D17DC1C5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE4B2EA-6418-473B-8C96-45D17DC1C5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE4B2EA-6418-473B-8C96-45D17DC1C5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE4B2EA-6418-473B-8C96-45D17DC1C5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8FEEEB8-6090-426C-934D-E863320753E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FEEEB8-6090-426C-934D-E863320753E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FEEEB8-6090-426C-934D-E863320753E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FEEEB8-6090-426C-934D-E863320753E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBF200A2-C295-4126-8361-E5AB05910037}
+	EndGlobalSection
+EndGlobal

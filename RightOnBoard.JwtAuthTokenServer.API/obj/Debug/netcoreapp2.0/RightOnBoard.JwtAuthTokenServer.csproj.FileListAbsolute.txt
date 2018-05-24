@@ -1,0 +1,11 @@
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.API\RightOnBoard.JwtAuthTokenServer\bin\Debug\netcoreapp2.0\RightOnBoard.JwtAuthTokenServer.deps.json
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.API\RightOnBoard.JwtAuthTokenServer\bin\Debug\netcoreapp2.0\RightOnBoard.JwtAuthTokenServer.runtimeconfig.json
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.API\RightOnBoard.JwtAuthTokenServer\bin\Debug\netcoreapp2.0\RightOnBoard.JwtAuthTokenServer.runtimeconfig.dev.json
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.API\RightOnBoard.JwtAuthTokenServer\bin\Debug\netcoreapp2.0\RightOnBoard.JwtAuthTokenServer.dll
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.API\RightOnBoard.JwtAuthTokenServer\obj\Debug\netcoreapp2.0\RightOnBoard.JwtAuthTokenServer.csprojResolveAssemblyReference.cache
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.API\RightOnBoard.JwtAuthTokenServer\obj\Debug\netcoreapp2.0\RightOnBoard.JwtAuthTokenServer.csproj.CoreCompileInputs.cache
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.API\RightOnBoard.JwtAuthTokenServer\obj\Debug\netcoreapp2.0\RightOnBoard.JwtAuthTokenServer.AssemblyInfoInputs.cache
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.API\RightOnBoard.JwtAuthTokenServer\obj\Debug\netcoreapp2.0\RightOnBoard.JwtAuthTokenServer.AssemblyInfo.cs
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.API\RightOnBoard.JwtAuthTokenServer\bin\Debug\netcoreapp2.0\RightOnBoard.JwtAuthTokenServer.pdb
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.API\RightOnBoard.JwtAuthTokenServer\obj\Debug\netcoreapp2.0\RightOnBoard.JwtAuthTokenServer.dll
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.API\RightOnBoard.JwtAuthTokenServer\obj\Debug\netcoreapp2.0\RightOnBoard.JwtAuthTokenServer.pdb

@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  rightonboard.jwtauthtokenserver:
+    image: rightonboardjwtauthtokenserver
+    build:
+      context: .
+      dockerfile: RightOnBoard.JwtAuthTokenServer\Dockerfile

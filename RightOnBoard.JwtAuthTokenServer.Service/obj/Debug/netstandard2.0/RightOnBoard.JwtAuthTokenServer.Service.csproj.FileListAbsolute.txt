@@ -1,0 +1,17 @@
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.Service\obj\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.csproj.CoreCompileInputs.cache
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.Service\obj\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.AssemblyInfoInputs.cache
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.Service\obj\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.AssemblyInfo.cs
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.Service\bin\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.deps.json
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.Service\bin\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.dll
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.Service\bin\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.pdb
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.Service\obj\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.dll
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.Service\obj\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.pdb
+C:\Work\RightOnBoard\RightOnBoard.JwtAuthTokenServer.Service\obj\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.csprojResolveAssemblyReference.cache
+C:\Users\vinnie\source\repos\Insypher\RightOnBoard\RightOnBoard.JwtAuthTokenServer\RightOnBoard.JwtAuthTokenServer.Service\bin\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.deps.json
+C:\Users\vinnie\source\repos\Insypher\RightOnBoard\RightOnBoard.JwtAuthTokenServer\RightOnBoard.JwtAuthTokenServer.Service\bin\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.dll
+C:\Users\vinnie\source\repos\Insypher\RightOnBoard\RightOnBoard.JwtAuthTokenServer\RightOnBoard.JwtAuthTokenServer.Service\bin\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.pdb
+C:\Users\vinnie\source\repos\Insypher\RightOnBoard\RightOnBoard.JwtAuthTokenServer\RightOnBoard.JwtAuthTokenServer.Service\obj\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.csproj.CoreCompileInputs.cache
+C:\Users\vinnie\source\repos\Insypher\RightOnBoard\RightOnBoard.JwtAuthTokenServer\RightOnBoard.JwtAuthTokenServer.Service\obj\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.AssemblyInfoInputs.cache
+C:\Users\vinnie\source\repos\Insypher\RightOnBoard\RightOnBoard.JwtAuthTokenServer\RightOnBoard.JwtAuthTokenServer.Service\obj\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.AssemblyInfo.cs
+C:\Users\vinnie\source\repos\Insypher\RightOnBoard\RightOnBoard.JwtAuthTokenServer\RightOnBoard.JwtAuthTokenServer.Service\obj\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.dll
+C:\Users\vinnie\source\repos\Insypher\RightOnBoard\RightOnBoard.JwtAuthTokenServer\RightOnBoard.JwtAuthTokenServer.Service\obj\Debug\netstandard2.0\RightOnBoard.JwtAuthTokenServer.Service.pdb

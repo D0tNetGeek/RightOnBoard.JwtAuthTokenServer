@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  rightonboard.jwtauthtokenserver:
+    build:
+      context: C:\Users\vinnie\source\repos\Insypher\RightOnBoard\RightOnBoard.JwtAuthTokenServer
+      dockerfile: RightOnBoard.JwtAuthTokenServer\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: rightonboardjwtauthtokenserver
+    ports:
+    - 80/tcp
+version: '3.0'
