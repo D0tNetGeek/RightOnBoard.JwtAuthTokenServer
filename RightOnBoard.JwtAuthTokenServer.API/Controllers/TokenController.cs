@@ -33,7 +33,7 @@ namespace RightOnBoard.JwtAuthTokenServer.API.Controllers
         {
             if(loginUser == null)
             {
-                return BadRequest("user is not set");
+                return BadRequest("user is not set !!");
             }
 
             var user = await _userService.FindUserAsync(loginUser.Username, loginUser.Password);
